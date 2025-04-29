@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.pyo
+*.pyd
+*.pyc
+
+# Colab Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+.env
+.DS_Store
+
+# SQLite files (backups or temp)
+*.sqlite3-journal
+
+# VSCode or IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Jupyter
+*.nbconvert.ipynb
+*.nbconvert/
+profile_default/
+ipython_config.py
+
+# Logs and temporary files
+*.log
+*.bak
+*.tmp
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# MacOS
+.DS_Store
+
+# Google Colab-specific
+sample_data/
+
+# Token or secret files
+token.txt
+*.key
+*.pem
